@@ -1,3 +1,7 @@
 # git tutorial
 
-Git tutorial details will be here
+Git tutorial details will be here 
+
+## you tube tutorials
+
+git & github basics tutorials 
